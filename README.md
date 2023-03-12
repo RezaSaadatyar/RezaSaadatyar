@@ -13,9 +13,7 @@ I have about five years of professional programming experience with different pr
 
 ---
 ***📊 GitHub Stats:***<br/>
-![](https://github-readme-stats.vercel.app/api?username=RezaSaadatyar&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RezaSaadatyar&theme=yeblu&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RezaSaadatyar&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=RezaSaadatyar&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=RezaSaadatyar&theme=yeblu&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RezaSaadatyar&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 ***🏆 GitHub Trophies***<br/>
