@@ -17,7 +17,8 @@ I have about five years of professional programming experience with different pr
 |[SSVEP based EEG signal processing](https://github.com/RezaSaadatyar/SSVEP-based-EEG-signal-processing)|This repository includes useful MATLAB codes for the detection of SSVEP in EEG signals using spatial filters, frequency recognition algorithms, and machine-learning methods.|
 |[Prediction of force from EMG signal](https://github.com/RezaSaadatyar/Prediction-of-force-from-EMG-signal)|This repository includes the MATLAB and Python codes of muscle force prediction from EMG using Linear models, Machine Learning, and Deep Learning.|
 |[Hammerstein ARMAX model](https://github.com/RezaSaadatyar/Hammerstein-ARMAX-model)|This repository includes the MATLAB codes of Identifying general Hammerstein nonlinear ARMAX systems parametrically using iterative and recursive algorithms|
-|[PID adaptive control for knee angle prediction](https://github.com/RezaSaadatyar/PID-adaptive-control-for-knee-angle-prediction)|In this repository, I wrote functions related to predicting knee angles using PID/adaptive control at FES time (Matlab/Simulink).|     
+|[PID adaptive control for knee angle prediction](https://github.com/RezaSaadatyar/PID-adaptive-control-for-knee-angle-prediction)|In this repository, I wrote functions related to predicting knee angles using PID/adaptive control at FES time (Matlab/Simulink).| 
+|[PID and Fuzzy Logic Controller for Rehabilitation](https://github.com/RezaSaadatyar/PID-and-Fuzzy-Logic-Controller-for-Rehabilitation)|Comparison of performance between a PID-tuned controller and a fuzzy controller for the development of rehabilitation exoskeletons.|
 |[Function in Python](https://github.com/RezaSaadatyar/Function-in-Python)|This repository includes different methods to define Functions in Python.|
 
 ---
