@@ -24,7 +24,7 @@ I have about five years of professional programming experience with different pr
   <a href="https://www.instagram.com/reza_saadatyar69/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="28" alt="instagram logo"  />
   </a>
-  <a href="Reza_Saadatyar" target="_blank">
+  <a href="https://t.me/Reza_Saadatyar" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="30" height="28" alt="telegram logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="30" height="28" alt="whatsapp logo"  />
