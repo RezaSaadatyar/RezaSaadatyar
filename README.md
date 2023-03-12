@@ -7,7 +7,6 @@ I have about five years of professional programming experience with different pr
 ***🌐 Connect with me:***<br/>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/rezasaadatyar/](https://www.linkedin.com/in/rezasaadatyar/)) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/home?lang=en) [![Email](https://img.shields.io/badge/Email-%231DA1F2.svg?logo=Email&logoColor=white)](Reza.Saadatyar92@gmail.com/home?lang=en)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ reza_saadatyar69) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/rezasaadatyar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RSaadatyar) 
 
 ---
 ***💻 Tech Stack:***<br/>
@@ -32,5 +31,3 @@ I have about five years of professional programming experience with different pr
 [![](https://visitcount.itsvg.in/api?id=RezaSaadatyar&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ reza_saadatyar69) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/rezasaadatyar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RSaadatyar) 
