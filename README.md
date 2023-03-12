@@ -10,13 +10,15 @@ I have about five years of professional programming experience with different pr
 |[Deep Learning](https://github.com/RezaSaadatyar/Deep-Learning-in-python)|--|
 |[Reinforcement Learning](https://github.com/RezaSaadatyar/Reinforcement-Learning)|The repository contains codes for RL (e.g., Q-Learning, Monte Carlo, …) in the form of Python files.|
 |[Time Series Analysis](https://github.com/RezaSaadatyar/Time-Series-Analysis-in-Python)|This repository contains Python functions for predicting time series.|
-|[Function in Python](https://github.com/RezaSaadatyar/Function-in-Python)|This repository includes different methods to define Functions in Python.|
-|[Motor imagery based EEG signal processing](https://github.com/RezaSaadatyar/Motor-imagery-based-EEG-signal-processing)|--|
+|[Spike Sorting Techniques](https://github.com/RezaSaadatyar/Spike-Sorting-Techniques)|This repository includes useful MATLAB codes for ENG analysis.|
 |[EEG phase lag index](https://github.com/RezaSaadatyar/EEG-phase-lag-index)|This repository includes the MATLAB codes for computing phase lag index and power spectrum density.|
 |[Epileptic Seizure Detection Based on EEG Signals](https://github.com/RezaSaadatyar/Epileptic-Seizure-Detection-Based-on-EEG-Signals)|This repository includes useful MATLAB codes for the detection of epileptic seizure in EEG signals using wavelet analysis and machine learning techniques (MLP, SVM, KNN, and Bayesian)|
+|[Motor imagery based EEG signal processing](https://github.com/RezaSaadatyar/Motor-imagery-based-EEG-signal-processing)|--|
+|[SSVEP based EEG signal processing](https://github.com/RezaSaadatyar/SSVEP-based-EEG-signal-processing)|This repository includes useful MATLAB codes for the detection of SSVEP in EEG signals using spatial filters, frequency recognition algorithms, and machine-learning methods.|
 |[Hammerstein ARMAX model](https://github.com/RezaSaadatyar/Hammerstein-ARMAX-model)|This repository includes the MATLAB codes of Identifying general Hammerstein nonlinear ARMAX systems parametrically using iterative and recursive algorithms|
-     
-    
+|[PID adaptive control for knee angle prediction](https://github.com/RezaSaadatyar/PID-adaptive-control-for-knee-angle-prediction)|In this repository, I wrote functions related to predicting knee angles using PID/adaptive control at FES time (Matlab/Simulink).|     
+|[Function in Python](https://github.com/RezaSaadatyar/Function-in-Python)|This repository includes different methods to define Functions in Python.|
+
 ---
 ***🌐 Connect with me:***<br/>
 <div align="left">
