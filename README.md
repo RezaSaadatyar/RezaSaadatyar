@@ -18,7 +18,7 @@ I have about five years of professional programming experience with different pr
   <a href="https://www.linkedin.com/in/rezasaadatyar/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="28" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/home" target="_blank">
+  <a href="https://twitter.com/RSaadatyar?t=BxNFr47CeScRqdyh117UCg&s=08" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="30" height="28" alt="twitter logo"  />
   </a>
   <a href="https://www.instagram.com/reza_saadatyar69/" target="_blank">
@@ -29,9 +29,6 @@ I have about five years of professional programming experience with different pr
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="30" height="28" alt="whatsapp logo"  />
 </div>
-###
-
-
 
 ---
 ***💻 Tech Stack:***<br/>
