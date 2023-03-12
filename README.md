@@ -12,7 +12,7 @@ I have about five years of professional programming experience with different pr
 ###
 
 <div align="left">
-  <a href="Reza.Saadatyar92@gmail.com" target="_blank">
+  <a href="Reza.Saadatyar92@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="28" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/rezasaadatyar/" target="_blank">
