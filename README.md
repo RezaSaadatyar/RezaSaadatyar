@@ -6,13 +6,13 @@ I have about five years of professional programming experience with different pr
 ---
 ***🌐 Connect with me:***<br/>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/reza_saadatyar69/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezasaadatyar/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/) <a href="mailto:Reza.Saadatyar92@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-[![Email](https://img.shields.io/badge/Email-%231DA1F2.svg?logo=Email&logoColor=white)](https://twitter.com/)
+
 
 
 ###
 
 <div align="left">
-  <a href="Reza.Saadatyar92@gmail.com">
+  <a href="mailto:Reza.Saadatyar92@gmail.com?">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="28" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/rezasaadatyar/" target="_blank">
