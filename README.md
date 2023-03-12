@@ -7,22 +7,22 @@ I have about five years of professional programming experience with different pr
 ***🌐 Connect with me:***<br/>
 <div align="left">
   <a href="mailto:Reza.Saadatyar92@gmail.com?">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="28" height="28" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="29" height="28" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/rezasaadatyar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="28" height="28" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="29" height="28" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/RSaadatyar?t=BxNFr47CeScRqdyh117UCg&s=08" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="28" height="28" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="29" height="28" alt="twitter logo"  />
   </a>
   <a href="https://instagram.com/reza_saadatyar69?igshid=ZDdkNTZiNTM=" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="28" height="28" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="29" height="28" alt="instagram logo"  />
   </a>
   <a href="https://t.me/Reza_Saadatyar" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="28" height="28" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="29" height="28" alt="telegram logo"  />
   </a> 
   <a href="https://wa.me/qr/O5FAIV6YA3CQP1" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="28" height="28" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="29" height="30" alt="whatsapp logo"  />
 </div>
 
 ---
