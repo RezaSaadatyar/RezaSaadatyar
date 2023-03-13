@@ -4,22 +4,23 @@
 I have about five years of professional programming experience with different programming languages, and I'm particularly interested in MATLAB, Python, artificial intelligence, and teaching programming to others.  
 
 ***Open Soruce & Projects:***<br/>
-|Topic| Summary|
-|--|--|
-|[Machine Learning](https://github.com/RezaSaadatyar/Machine-Learning-in-Python)|This repository contains functions/codes related to different methods of machine learning for classification and clustering in python.|
-|[Deep Learning](https://github.com/RezaSaadatyar/Deep-Learning-in-python)|--|
-|[Reinforcement Learning](https://github.com/RezaSaadatyar/Reinforcement-Learning)|The repository contains codes for RL (e.g., Q-Learning, Monte Carlo, …) in the form of Python files.|
-|[Time Series Analysis](https://github.com/RezaSaadatyar/Time-Series-Analysis-in-Python)|This repository contains Python functions for predicting time series.|
-|[Spike Sorting Techniques](https://github.com/RezaSaadatyar/Spike-Sorting-Techniques)|This repository includes useful MATLAB codes for ENG analysis.|
-|[EEG phase lag index](https://github.com/RezaSaadatyar/EEG-phase-lag-index)|This repository includes the MATLAB codes for computing phase lag index and power spectrum density.|
-|[Epileptic Seizure Detection Based on EEG Signals](https://github.com/RezaSaadatyar/Epileptic-Seizure-Detection-Based-on-EEG-Signals)|This repository includes useful MATLAB codes for the detection of epileptic seizure in EEG signals using wavelet analysis and machine learning techniques (MLP, SVM, KNN, and Bayesian)|
-|[Motor imagery based EEG signal processing](https://github.com/RezaSaadatyar/Motor-imagery-based-EEG-signal-processing)|--|
-|[SSVEP based EEG signal processing](https://github.com/RezaSaadatyar/SSVEP-based-EEG-signal-processing)|This repository includes useful MATLAB codes for the detection of SSVEP in EEG signals using spatial filters, frequency recognition algorithms, and machine-learning methods.|
-|[Prediction of force from EMG signal](https://github.com/RezaSaadatyar/Prediction-of-force-from-EMG-signal)|This repository includes the MATLAB and Python codes of muscle force prediction from EMG using Linear models, Machine Learning, and Deep Learning.|
-|[Hammerstein ARMAX model](https://github.com/RezaSaadatyar/Hammerstein-ARMAX-model)|This repository includes the MATLAB codes of Identifying general Hammerstein nonlinear ARMAX systems parametrically using iterative and recursive algorithms|
-|[PID adaptive control for knee angle prediction](https://github.com/RezaSaadatyar/PID-adaptive-control-for-knee-angle-prediction)|In this repository, I wrote functions related to predicting knee angles using PID/adaptive control at FES time (Matlab/Simulink).| 
-|[PID and Fuzzy Logic Controller for Rehabilitation](https://github.com/RezaSaadatyar/PID-and-Fuzzy-Logic-Controller-for-Rehabilitation)|Comparison of performance between a PID-tuned controller and a fuzzy controller for the development of rehabilitation exoskeletons.|
-|[Function in Python](https://github.com/RezaSaadatyar/Function-in-Python)|This repository includes different methods to define Functions in Python.|
+
+|Topic|MATLAB|Python|Jupyter Notebook|
+|--|:--:|:--:|:--:|
+|[Machine Learning](https://github.com/RezaSaadatyar/Machine-Learning-in-Python)|---|✅|✅|
+|[Deep Learning](https://github.com/RezaSaadatyar/Deep-Learning-in-python)|---|✅|✅|
+|[Reinforcement Learning](https://github.com/RezaSaadatyar/Reinforcement-Learning)|---|✅|✅|
+|[Time Series Analysis](https://github.com/RezaSaadatyar/Time-Series-Analysis-in-Python)|---|✅|✅|
+|[Spike Sorting Techniques](https://github.com/RezaSaadatyar/Spike-Sorting-Techniques)|✅|✅|---|
+|[EEG phase lag index](https://github.com/RezaSaadatyar/EEG-phase-lag-index)|✅|---|---|
+|[Epileptic Seizure Detection Based on EEG Signals](https://github.com/RezaSaadatyar/Epileptic-Seizure-Detection-Based-on-EEG-Signals)|✅|---|---|
+|[Motor imagery based EEG signal processing](https://github.com/RezaSaadatyar/Motor-imagery-based-EEG-signal-processing)|---|✅|✅|
+|[SSVEP based EEG signal processing](https://github.com/RezaSaadatyar/SSVEP-based-EEG-signal-processing)|✅|---|---|
+|[Prediction of force from EMG signal](https://github.com/RezaSaadatyar/Prediction-of-force-from-EMG-signal)|✅|✅|---|
+|[Hammerstein ARMAX model](https://github.com/RezaSaadatyar/Hammerstein-ARMAX-model)|✅|---|---|
+|[PID adaptive control for knee angle prediction](https://github.com/RezaSaadatyar/PID-adaptive-control-for-knee-angle-prediction)|✅|---|---|
+|[PID and Fuzzy Logic Controller for Rehabilitation](https://github.com/RezaSaadatyar/PID-and-Fuzzy-Logic-Controller-for-Rehabilitation)|✅|---|---|
+|[Function in Python](https://github.com/RezaSaadatyar/Function-in-Python)|---|✅|---|
 
 ---
 ***🌐 Connect with me:***<br/>
