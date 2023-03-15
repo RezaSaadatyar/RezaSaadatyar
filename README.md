@@ -1,7 +1,8 @@
 **Hi, I'm Reza Saadatyar** 👋<br/>
 
 ***💫 About Me:***<br/>
-I have about five years of professional programming experience with different programming languages, and I'm particularly interested in MATLAB, Python, artificial intelligence, and teaching programming to others.  
+I have about five years of professional programming experience with different programming languages, and I'm particularly interested in MATLAB, Python, artificial intelligence, and teaching programming to others.<br/>  
+![1 1](https://user-images.githubusercontent.com/96347878/225349965-8fb5b2a8-99d6-41f7-9b15-c3b65a0a05e1.gif)
 
 ***Open Soruce & Projects:***<br/>
 
