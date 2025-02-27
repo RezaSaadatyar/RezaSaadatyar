@@ -44,7 +44,7 @@ I have about five years of professional programming experience with different pr
 |[Deep Learning](https://github.com/RezaSaadatyar/Deep-Learning-in-python)|---|✅|✅|
 |[Reinforcement Learning](https://github.com/RezaSaadatyar/Reinforcement-Learning)|---|✅|✅|
 |[Time Series Analysis](https://github.com/RezaSaadatyar/Time-Series-Analysis-in-Python)|---|✅|✅|
-|[Spike Sorting Techniques](https://github.com/RezaSaadatyar/Spike-Sorting-Techniques)|✅|✅|---|
+|[Neurophysiological Signal Processing and Analysis](https://github.com/RezaSaadatyar/Spike-Sorting-Techniques)|✅|✅|---|
 |[EEG phase lag index](https://github.com/RezaSaadatyar/EEG-phase-lag-index)|✅|---|---|
 |[Epileptic Seizure Detection Based on EEG Signals](https://github.com/RezaSaadatyar/Epileptic-Seizure-Detection-Based-on-EEG-Signals)|✅|---|---|
 |[Motor imagery based EEG signal processing](https://github.com/RezaSaadatyar/Motor-imagery-based-EEG-signal-processing)|---|✅|✅|
