@@ -35,13 +35,8 @@ I have about five years of professional programming experience with different pr
   - [Neurophysiological Signal Processing and Analysis](https://github.com/RezaSaadatyar/Neurophysiological-Signal-Processing-and-Analysis)
 
 #### 🐍 Python
-- **Projects:**
-  - 
-  - 
-  
 - **Courses:**
-  - 
-  - 
+  - [Object Oriented Programming](https://github.com/RezaSaadatyar/Object-Oriented-Programming)
 
 <font  size="6" face="Arial"><b>📊 GitHub Stats:</b></font><br/>
 ![](https://github-readme-stats.vercel.app/api?username=RezaSaadatyar&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=RezaSaadatyar&theme=yeblu&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RezaSaadatyar&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
