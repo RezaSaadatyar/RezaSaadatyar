@@ -30,14 +30,12 @@ I have about five years of professional programming experience with different pr
 <font size="8" face="Arial"><b>📁 Projects and Courses: </b></font><br/>
 
 #### 🔶 MATLAB
-- **Projects:**
-  - [Machine Learning with MATLAB](https://github.com/RezaSaadatyar/Machine-Learning-with-MATLAB)
-  - [Neurophysiological Signal Processing and Analysis](https://github.com/RezaSaadatyar/Neurophysiological-Signal-Processing-and-Analysis)
+  - [Machine Learning with MATLAB](https://github.com/RezaSaadatyar/Machine-Learning-with-MATLAB) (Project)
+  - [Neurophysiological Signal Processing and Analysis](https://github.com/RezaSaadatyar/Neurophysiological-Signal-Processing-and-Analysis) (Project)
 
 #### 🐍 Python
-- **Courses:**
-  - [Object Oriented Programming](https://github.com/RezaSaadatyar/Object-Oriented-Programming)
-  - [Medical Image Processing](https://github.com/RezaSaadatyar/Medical-Image-Processing)
+  - [Object Oriented Programming](https://github.com/RezaSaadatyar/Object-Oriented-Programming) (Course)
+  - [Medical Image Processing](https://github.com/RezaSaadatyar/Medical-Image-Processing) (Course + project)
 
 <font  size="6" face="Arial"><b>📊 GitHub Stats:</b></font><br/>
 ![](https://github-readme-stats.vercel.app/api?username=RezaSaadatyar&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=RezaSaadatyar&theme=yeblu&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RezaSaadatyar&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
