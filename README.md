@@ -36,6 +36,7 @@ I have about five years of professional programming experience with different pr
 #### 🐍 Python
   - [Object Oriented Programming](https://github.com/RezaSaadatyar/Object-Oriented-Programming) (Course)
   - [Medical Image Processing](https://github.com/RezaSaadatyar/Medical-Image-Processing) (Course + project)
+  - [Reinforcement Learning](https://github.com/RezaSaadatyar/Reinforcement-Learning)
 
 <font  size="6" face="Arial"><b>📊 GitHub Stats:</b></font><br/>
 ![](https://github-readme-stats.vercel.app/api?username=RezaSaadatyar&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=RezaSaadatyar&theme=yeblu&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RezaSaadatyar&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -53,7 +54,6 @@ I have about five years of professional programming experience with different pr
 |--|:--:|:--:|:--:|
 |[Machine Learning](https://github.com/RezaSaadatyar/Machine-Learning-in-Python)|---|✅|✅|
 |[Deep Learning](https://github.com/RezaSaadatyar/Deep-Learning-in-python)|---|✅|✅|
-|[Reinforcement Learning](https://github.com/RezaSaadatyar/Reinforcement-Learning)|---|✅|✅|
 |[Time Series Analysis](https://github.com/RezaSaadatyar/Time-Series-Analysis-in-Python)|---|✅|✅|
 |[Neurophysiological Signal Processing and Analysis](https://github.com/RezaSaadatyar/Spike-Sorting-Techniques)|✅|✅|---|
 |[EEG phase lag index](https://github.com/RezaSaadatyar/EEG-phase-lag-index)|✅|---|---|
@@ -65,7 +65,6 @@ I have about five years of professional programming experience with different pr
 |[PID adaptive control for knee angle prediction](https://github.com/RezaSaadatyar/PID-adaptive-control-for-knee-angle-prediction)|✅|---|---|
 |[PID and Fuzzy Logic Controller for Rehabilitation](https://github.com/RezaSaadatyar/PID-and-Fuzzy-Logic-Controller-for-Rehabilitation)|✅|---|---|
 |[Function in Python](https://github.com/RezaSaadatyar/Function-in-Python)|---|✅|---|
-|[Object Oriented Programming](https://github.com/RezaSaadatyar/Object-Oriented-Programming)|---|---|✅|
-|[Medical-Image-Processing](https://github.com/RezaSaadatyar/Medical-Image-Processing)|---|✅|✅|
+
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
